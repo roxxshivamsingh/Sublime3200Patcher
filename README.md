@@ -1,5 +1,5 @@
 # Sublime3200Patcher
-This  Patcher is for &lt;3200 Version on Sublime
+This  Patcher is for &lt;=3200 Version on Sublime
 
 1. Goto Sublime directory
 2. Then run this app as admin
